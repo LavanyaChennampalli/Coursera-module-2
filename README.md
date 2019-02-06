@@ -1,13 +1,6 @@
 Module 2 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-Woo-hoo! You get to do some coding! Exciting!
-
-Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
-
-Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!
-
-Don't get scared by the number of points below. It's really not so much. I just wanted to explain everything as clearly as I could and break it down into smaller steps.
 
 Here is what you will need to complete the assignment:
 
